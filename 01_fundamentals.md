@@ -1,3 +1,5 @@
+# AWS Fundamentals
+
 ## Amazon web services infrastructure
 
 ### Compute
@@ -31,3 +33,5 @@
 - **Direct Connect**
 - **Load Balancing**
 - **Route 53**
+
+## Security, Identity & Compliance
